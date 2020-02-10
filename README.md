@@ -1,4 +1,4 @@
 # 社区健身器材报修APP系统——客户端Demo
 案例：
-![这里随便写文字](你刚复制的图片路径)
-![这里随便写文字](你刚复制的图片路径)
+![双卫大转轮](https://github.com/ghost0zxc/app_equipment_client/blob/master/3.png)
+![太极揉推器](https://github.com/ghost0zxc/app_equipment_client/blob/master/4.png)
