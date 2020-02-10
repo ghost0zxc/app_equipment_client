@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">健身器材报修</string>
+    <string name="permission_camera">App扫码需要用到拍摄权限</string>
+    <string name="permission_external_storage">App需要用到读写权限</string>
+    <string name="tips_scan_code">将二维码放入框内，即可自动扫描</string>
+    <string name="qr_code">二维码</string>
+    <string name="method4">使用方法：双腿扎马步，微微下蹲，用双手的虎口部位握住转轮手柄，向相同或相反方向转动。</string>
+    <string name="attention4">注意事项：要匀速、缓慢转动转盘，不要用力过猛。身高不及器械高度者不适宜使用该器材。</string>
+    <string name="method3">使用方法：双手握住转轮手柄，同时向顺时针或逆时针方向转动。</string>
+    <string name="attention3">注意事项：禁止攀爬或垂直拉动转轮。有病理人士应征得医生同意方可使用，使用时须有家人看护。</string>
+</resources>
